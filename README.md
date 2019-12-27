@@ -1,6 +1,6 @@
 # digests
 
-> Version 0.0.2
+> Version 0.0.3
 
 [![Build Status](https://travis-ci.org/{github_username}/digests.svg?branch=master)](https://travis-ci.org/{github_username}/digests)
 [![codecov.io](https://codecov.io/gh/{github_username}/digests/branch/master/graph/badge.svg)](https://codecov.io/gh/{github_username}/digests)

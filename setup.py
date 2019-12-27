@@ -12,7 +12,7 @@ def read(fname):
 
 setup(
     name="digests",
-    version="0.0.2",  # bump2version will edit this automatically!
+    version="0.0.3",  # bump2version will edit this automatically!
     description="Tools for news corpora",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
