@@ -1,0 +1,9 @@
+# Tests and CI
+pre-commit
+black
+flake8
+mypy
+codecov
+isort
+bump2version
+# Requirements of the package
